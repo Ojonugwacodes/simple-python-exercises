@@ -1,4 +1,4 @@
-
+# Simple program that computes score based on user input
 def compute_grade(score):
   try:
    score =  float(score)
