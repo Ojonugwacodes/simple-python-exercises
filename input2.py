@@ -1,3 +1,4 @@
+# Simple program that calculates the amount to be paid using a hourly basis
 def compute_pay(hours,rate):
   try:
     hours = float(hours)
